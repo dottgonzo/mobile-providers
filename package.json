@@ -1,0 +1,26 @@
+{
+  "name": "mobile-providers",
+  "version": "1.0.0",
+  "description": "mobile provider",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dottgonzo/mobile-providers.git"
+  },
+  "keywords": [
+    "mobile",
+    "provider"
+  ],
+  "author": "Dario Caruso",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dottgonzo/mobile-providers/issues"
+  },
+  "homepage": "https://github.com/dottgonzo/mobile-providers#readme"
+}
